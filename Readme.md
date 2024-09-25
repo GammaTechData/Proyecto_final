@@ -25,7 +25,7 @@ Lo deseable del proyecto es que sea lo más completo posible (dentro de las posi
 - ***Análisis exploratorio*** de los datos, con el objetivo de encontrar relaciones, patrones, etc... que nos ayuden sacar alguna conclusión o plantear hipótesis sobre nuestros datos.
 - ***Visualización*** de los datos mediante gráficas, mapas, etc...
 
-Ante cualquier duda, preguntad y revisaremos el scope de vuestro proyecto, en caso de que haya que reducirlo /ampliarlo y ver que parte podemos incluir para la entrega y que parte se puede quedar como un ***next step***.
+Ante cualquier duda, preguntad y revisaremos el alcance de vuestro proyecto, en caso de que haya que reducirlo /ampliarlo y ver que parte podemos incluir para la entrega y que parte se puede quedar como un ***próximos pasos***.
 
 >---
 
